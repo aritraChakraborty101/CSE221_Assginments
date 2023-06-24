@@ -49,8 +49,8 @@
 
 
 
-inp = open("E:\LabSection01_22101892_CSE221LabAssignment2_Summer2023\input1a.txt","r")
-out = open("E:\LabSection01_22101892_CSE221LabAssignment2_Summer2023\output1a.txt","w")
+inp = open("/workspaces/CSE221_Assginments/LabSection01_22101892_CSE221LabAssignment2_Summer2023/input1a.txt","r")
+out = open("/workspaces/CSE221_Assginments/LabSection01_22101892_CSE221LabAssignment2_Summer2023/output1a.txt","w")
 
 
 n, target = map(int, inp.readline().split())
